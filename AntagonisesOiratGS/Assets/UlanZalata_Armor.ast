@@ -1,0 +1,252 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<AssetObjects..AssetInstance>
+	<m_BehaviorData>
+		<m_behaviorDataSets>
+			<m_animationBindings>
+				<m_Bindings>
+					<Element>
+						<m_SlotName text="BREATHING_A"/>
+						<m_AnimationName text="UnitMedium_BreathingA"/>
+					</Element>
+				</m_Bindings>
+			</m_animationBindings>
+			<m_timelineBindings>
+				<m_Bindings/>
+			</m_timelineBindings>
+			<m_timelines>
+				<m_Timelines>
+					<Element>
+						<m_Name text=""/>
+						<m_Description text=""/>
+						<m_AnimationName text=""/>
+						<m_fDuration>0.000000</m_fDuration>
+						<m_Triggers/>
+					</Element>
+					<Element>
+						<m_Name text=""/>
+						<m_Description text=""/>
+						<m_AnimationName text=""/>
+						<m_fDuration>nan</m_fDuration>
+						<m_Triggers/>
+					</Element>
+					<Element>
+						<m_Name text=""/>
+						<m_Description text=""/>
+						<m_AnimationName text=""/>
+						<m_fDuration>nan</m_fDuration>
+						<m_Triggers/>
+					</Element>
+					<Element>
+						<m_Name text=""/>
+						<m_Description text=""/>
+						<m_AnimationName text=""/>
+						<m_fDuration>nan</m_fDuration>
+						<m_Triggers/>
+					</Element>
+					<Element>
+						<m_Name text=""/>
+						<m_Description text=""/>
+						<m_AnimationName text=""/>
+						<m_fDuration>nan</m_fDuration>
+						<m_Triggers/>
+					</Element>
+					<Element>
+						<m_Name text=""/>
+						<m_Description text=""/>
+						<m_AnimationName text=""/>
+						<m_fDuration>nan</m_fDuration>
+						<m_Triggers/>
+					</Element>
+					<Element>
+						<m_Name text=""/>
+						<m_Description text=""/>
+						<m_AnimationName text=""/>
+						<m_fDuration>nan</m_fDuration>
+						<m_Triggers/>
+					</Element>
+					<Element>
+						<m_Name text=""/>
+						<m_Description text=""/>
+						<m_AnimationName text=""/>
+						<m_fDuration>nan</m_fDuration>
+						<m_Triggers/>
+					</Element>
+					<Element>
+						<m_Name text=""/>
+						<m_Description text=""/>
+						<m_AnimationName text=""/>
+						<m_fDuration>nan</m_fDuration>
+						<m_Triggers/>
+					</Element>
+					<Element>
+						<m_Name text=""/>
+						<m_Description text=""/>
+						<m_AnimationName text=""/>
+						<m_fDuration>nan</m_fDuration>
+						<m_Triggers/>
+					</Element>
+					<Element>
+						<m_Name text=""/>
+						<m_Description text=""/>
+						<m_AnimationName text=""/>
+						<m_fDuration>nan</m_fDuration>
+						<m_Triggers/>
+					</Element>
+					<Element>
+						<m_Name text=""/>
+						<m_Description text=""/>
+						<m_AnimationName text=""/>
+						<m_fDuration>nan</m_fDuration>
+						<m_Triggers/>
+					</Element>
+					<Element>
+						<m_Name text=""/>
+						<m_Description text=""/>
+						<m_AnimationName text=""/>
+						<m_fDuration>nan</m_fDuration>
+						<m_Triggers/>
+					</Element>
+					<Element>
+						<m_Name text=""/>
+						<m_Description text=""/>
+						<m_AnimationName text=""/>
+						<m_fDuration>nan</m_fDuration>
+						<m_Triggers/>
+					</Element>
+					<Element>
+						<m_Name text=""/>
+						<m_Description text=""/>
+						<m_AnimationName text=""/>
+						<m_fDuration>nan</m_fDuration>
+						<m_Triggers/>
+					</Element>
+					<Element>
+						<m_Name text=""/>
+						<m_Description text=""/>
+						<m_AnimationName text=""/>
+						<m_fDuration>nan</m_fDuration>
+						<m_Triggers/>
+					</Element>
+					<Element>
+						<m_Name text=""/>
+						<m_Description text=""/>
+						<m_AnimationName text=""/>
+						<m_fDuration>nan</m_fDuration>
+						<m_Triggers/>
+					</Element>
+					<Element>
+						<m_Name text=""/>
+						<m_Description text=""/>
+						<m_AnimationName text=""/>
+						<m_fDuration>nan</m_fDuration>
+						<m_Triggers/>
+					</Element>
+					<Element>
+						<m_Name text=""/>
+						<m_Description text=""/>
+						<m_AnimationName text=""/>
+						<m_fDuration>nan</m_fDuration>
+						<m_Triggers/>
+					</Element>
+					<Element>
+						<m_Name text=""/>
+						<m_Description text=""/>
+						<m_AnimationName text=""/>
+						<m_fDuration>nan</m_fDuration>
+						<m_Triggers/>
+					</Element>
+					<Element>
+						<m_Name text=""/>
+						<m_Description text=""/>
+						<m_AnimationName text=""/>
+						<m_fDuration>nan</m_fDuration>
+						<m_Triggers/>
+					</Element>
+					<Element>
+						<m_Name text=""/>
+						<m_Description text=""/>
+						<m_AnimationName text=""/>
+						<m_fDuration>nan</m_fDuration>
+						<m_Triggers/>
+					</Element>
+				</m_Timelines>
+			</m_timelines>
+			<m_attachmentPoints>
+				<m_Points>
+					<Element>
+						<m_CookParams>
+							<m_Values/>
+						</m_CookParams>
+						<m_position>
+							<x>-11.200000</x>
+							<y>-0.750000</y>
+							<z>0.000000</z>
+						</m_position>
+						<m_orientation>
+							<x>1.570796</x>
+							<y>0.000000</y>
+							<z>-1.570796</z>
+						</m_orientation>
+						<m_Name text="Head_Fix"/>
+						<m_BoneName text="Head"/>
+						<m_ModelInstanceName text="Root"/>
+						<m_scale>0.950000</m_scale>
+					</Element>
+				</m_Points>
+			</m_attachmentPoints>
+			<m_stateSet/>
+		</m_behaviorDataSets>
+		<m_behaviorInstances>
+			<Element text="Horseman"/>
+			<Element text="SingleBiped_MountedDeaths"/>
+		</m_behaviorInstances>
+		<m_dsgName text="potential_any_graph"/>
+		<m_referenceGeometryNames/>
+	</m_BehaviorData>
+	<m_GeometrySet>
+		<m_ModelInstances>
+			<Element>
+				<m_Name text="Root"/>
+				<m_GeoName text="CrouchingTiger_ArmorA"/>
+				<m_GroupStates>
+					<Element>
+						<m_Values>
+							<m_Values>
+								<Element class="AssetObjects..ObjectValue">
+									<m_ObjectName text="CrouchingTiger_Armor_Material"/>
+									<m_eObjectType>MATERIAL</m_eObjectType>
+									<m_ParamName text="Material"/>
+								</Element>
+							</m_Values>
+						</m_Values>
+						<m_GroupName text="CrouchingTiger_Armor_Material"/>
+						<m_MeshName text="CrouchingTiger_ArmorShape"/>
+						<m_StateName text="Default"/>
+					</Element>
+				</m_GroupStates>
+			</Element>
+		</m_ModelInstances>
+	</m_GeometrySet>
+	<m_CookParams>
+		<m_Values/>
+	</m_CookParams>
+	<m_Version>
+		<major>4</major>
+		<minor>0</minor>
+		<build>315</build>
+		<revision>805</revision>
+	</m_Version>
+	<m_ParticleEffects/>
+	<m_Geometries/>
+	<m_Animations/>
+	<m_Materials/>
+	<m_ClassName text="Unit"/>
+	<m_DataFiles/>
+	<m_Name text="UlanZalata_Armor"/>
+	<m_Description text=""/>
+	<m_Tags>
+		<Element text="Unit"/>
+	</m_Tags>
+	<m_Groups/>
+</AssetObjects..AssetInstance>
+

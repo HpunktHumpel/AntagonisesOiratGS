@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<IconDefinitions>
+		<Row Name="ICON_LEADER_ANT_GALDAN" Atlas="ICON_ATLAS_LEADERS_ANT_GALDAN" Index="0"/>
+		<Row Name="ICON_CIVILIZATION_ANT_OIRAT" Atlas="ICON_ATLAS_CIVILIZATIONS_ANT_OIRAT" Index="0"/>
+		<Row Name="ICON_UNIT_ANT_OIRAT_ULAN_ZALATA" Atlas="ICON_ATLAS_UNITS_ANT_ULAN_ZALATA" Index="0"/>
+		<Row Name="ICON_IMPROVEMENT_ANT_GER" Atlas="ICON_ATLAS_IMPROVEMENTS_ANT_GER" Index="0"/>
+		<Row Name="ICON_UNIT_ANT_OIRAT_ULAN_ZALATA_PORTRAIT" Atlas="ICON_ATLAS_UNITS_ANT_ULAN_ZALATA_PORTRAIT" Index="0"/>
+	</IconDefinitions>
+
+	<IconTextureAtlases>
+		<Row Name="ICON_ATLAS_CIVILIZATIONS_ANT_OIRAT" IconSize="22" IconsPerRow="1" IconsPerColumn="1" Filename="ICON_CIVILIZATION_ANT_OIRAT_22.dds"/>
+		<Row Name="ICON_ATLAS_CIVILIZATIONS_ANT_OIRAT" IconSize="30" IconsPerRow="1" IconsPerColumn="1" Filename="ICON_CIVILIZATION_ANT_OIRAT_30.dds"/>
+		<Row Name="ICON_ATLAS_CIVILIZATIONS_ANT_OIRAT" IconSize="36" IconsPerRow="1" IconsPerColumn="1" Filename="ICON_CIVILIZATION_ANT_OIRAT_36.dds"/>
+		<Row Name="ICON_ATLAS_CIVILIZATIONS_ANT_OIRAT" IconSize="44" IconsPerRow="1" IconsPerColumn="1" Filename="ICON_CIVILIZATION_ANT_OIRAT_44.dds"/>
+		<Row Name="ICON_ATLAS_CIVILIZATIONS_ANT_OIRAT" IconSize="45" IconsPerRow="1" IconsPerColumn="1" Filename="ICON_CIVILIZATION_ANT_OIRAT_45.dds"/>
+		<Row Name="ICON_ATLAS_CIVILIZATIONS_ANT_OIRAT" IconSize="48" IconsPerRow="1" IconsPerColumn="1" Filename="ICON_CIVILIZATION_ANT_OIRAT_48.dds"/>
+		<Row Name="ICON_ATLAS_CIVILIZATIONS_ANT_OIRAT" IconSize="50" IconsPerRow="1" IconsPerColumn="1" Filename="ICON_CIVILIZATION_ANT_OIRAT_50.dds"/>
+		<Row Name="ICON_ATLAS_CIVILIZATIONS_ANT_OIRAT" IconSize="64" IconsPerRow="1" IconsPerColumn="1" Filename="ICON_CIVILIZATION_ANT_OIRAT_64.dds"/>
+		<Row Name="ICON_ATLAS_CIVILIZATIONS_ANT_OIRAT" IconSize="80" IconsPerRow="1" IconsPerColumn="1" Filename="ICON_CIVILIZATION_ANT_OIRAT_80.dds"/>
+		<Row Name="ICON_ATLAS_CIVILIZATIONS_ANT_OIRAT" IconSize="256" IconsPerRow="1" IconsPerColumn="1" Filename="ICON_CIVILIZATION_ANT_OIRAT_256.dds"/>
+		<Row Name="ICON_ATLAS_LEADERS_ANT_GALDAN" IconSize="32" IconsPerRow="1" IconsPerColumn="1" Filename="ICON_LEADER_ANT_GALDAN_32.dds"/>
+		<Row Name="ICON_ATLAS_LEADERS_ANT_GALDAN" IconSize="45" IconsPerRow="1" IconsPerColumn="1" Filename="ICON_LEADER_ANT_GALDAN_45.dds"/>
+		<Row Name="ICON_ATLAS_LEADERS_ANT_GALDAN" IconSize="50" IconsPerRow="1" IconsPerColumn="1" Filename="ICON_LEADER_ANT_GALDAN_50.dds"/>
+		<Row Name="ICON_ATLAS_LEADERS_ANT_GALDAN" IconSize="55" IconsPerRow="1" IconsPerColumn="1" Filename="ICON_LEADER_ANT_GALDAN_55.dds"/>
+		<Row Name="ICON_ATLAS_LEADERS_ANT_GALDAN" IconSize="64" IconsPerRow="1" IconsPerColumn="1" Filename="ICON_LEADER_ANT_GALDAN_64.dds"/>
+		<Row Name="ICON_ATLAS_LEADERS_ANT_GALDAN" IconSize="80" IconsPerRow="1" IconsPerColumn="1" Filename="ICON_LEADER_ANT_GALDAN_80.dds"/>
+		<Row Name="ICON_ATLAS_LEADERS_ANT_GALDAN" IconSize="256" IconsPerRow="1" IconsPerColumn="1" Filename="ICON_LEADER_ANT_GALDAN_256.dds"/>
+		<Row Name="ICON_ATLAS_UNITS_ANT_ULAN_ZALATA" IconSize="22" IconsPerRow="1" IconsPerColumn="1" Filename="ICON_UNIT_ANT_ULAN_ZALATA_22.dds"/>
+		<Row Name="ICON_ATLAS_UNITS_ANT_ULAN_ZALATA" IconSize="32" IconsPerRow="1" IconsPerColumn="1" Filename="ICON_UNIT_ANT_ULAN_ZALATA_32.dds"/>
+		<Row Name="ICON_ATLAS_UNITS_ANT_ULAN_ZALATA" IconSize="38" IconsPerRow="1" IconsPerColumn="1" Filename="ICON_UNIT_ANT_ULAN_ZALATA_38.dds"/>
+		<Row Name="ICON_ATLAS_UNITS_ANT_ULAN_ZALATA" IconSize="50" IconsPerRow="1" IconsPerColumn="1" Filename="ICON_UNIT_ANT_ULAN_ZALATA_50.dds"/>
+		<Row Name="ICON_ATLAS_UNITS_ANT_ULAN_ZALATA" IconSize="80" IconsPerRow="1" IconsPerColumn="1" Filename="ICON_UNIT_ANT_ULAN_ZALATA_80.dds"/>
+		<Row Name="ICON_ATLAS_UNITS_ANT_ULAN_ZALATA" IconSize="256" IconsPerRow="1" IconsPerColumn="1" Filename="ICON_UNIT_ANT_ULAN_ZALATA_256.dds"/>
+		<Row Name="ICON_ATLAS_IMPROVEMENTS_ANT_GER" IconSize="38" IconsPerRow="1" IconsPerColumn="1" Filename="ICON_IMPROVEMENT_GER_38.dds"/>
+		<Row Name="ICON_ATLAS_IMPROVEMENTS_ANT_GER" IconSize="43" IconsPerRow="1" IconsPerColumn="1" Filename="ICON_IMPROVEMENT_GER_43.dds"/>
+		<Row Name="ICON_ATLAS_IMPROVEMENTS_ANT_GER" IconSize="50" IconsPerRow="1" IconsPerColumn="1" Filename="ICON_IMPROVEMENT_GER_50.dds"/>
+		<Row Name="ICON_ATLAS_IMPROVEMENTS_ANT_GER" IconSize="80" IconsPerRow="1" IconsPerColumn="1" Filename="ICON_IMPROVEMENT_GER_80.dds"/>
+		<Row Name="ICON_ATLAS_IMPROVEMENTS_ANT_GER" IconSize="256" IconsPerRow="1" IconsPerColumn="1" Filename="ICON_IMPROVEMENT_GER_256.dds"/>
+		<Row Name="ICON_ATLAS_UNITS_ANT_ULAN_ZALATA_PORTRAIT" IconSize="38" IconsPerRow="1" IconsPerColumn="1" Filename="PORTRAIT_ANT_ULAN_ZALATA_38.dds"/>
+		<Row Name="ICON_ATLAS_UNITS_ANT_ULAN_ZALATA_PORTRAIT" IconSize="50" IconsPerRow="1" IconsPerColumn="1" Filename="PORTRAIT_ANT_ULAN_ZALATA_50.dds"/>
+		<Row Name="ICON_ATLAS_UNITS_ANT_ULAN_ZALATA_PORTRAIT" IconSize="70" IconsPerRow="1" IconsPerColumn="1" Filename="PORTRAIT_ANT_ULAN_ZALATA_70.dds"/>
+		<Row Name="ICON_ATLAS_UNITS_ANT_ULAN_ZALATA_PORTRAIT" IconSize="95" IconsPerRow="1" IconsPerColumn="1" Filename="PORTRAIT_ANT_ULAN_ZALATA_95.dds"/>
+		<Row Name="ICON_ATLAS_UNITS_ANT_ULAN_ZALATA_PORTRAIT" IconSize="200" IconsPerRow="1" IconsPerColumn="1" Filename="PORTRAIT_ANT_ULAN_ZALATA_200.dds"/>
+		<Row Name="ICON_ATLAS_UNITS_ANT_ULAN_ZALATA_PORTRAIT" IconSize="256" IconsPerRow="1" IconsPerColumn="1" Filename="PORTRAIT_ANT_ULAN_ZALATA_256.dds"/>
+	</IconTextureAtlases>
+</GameData>

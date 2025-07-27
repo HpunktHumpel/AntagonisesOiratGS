@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<AssetObjects..XLP>
+	<m_Version>
+		<major>4</major>
+		<minor>0</minor>
+		<build>315</build>
+		<revision>805</revision>
+	</m_Version>
+	<m_ClassName text="UITexture"/>
+	<m_PackageName text="UI/Icons"/>
+	<m_Entries>
+		<Element>
+			<m_EntryID text="ANT_GALDAN_1"/>
+			<m_ObjectName text="ANT_GALDAN_1"/>
+		</Element>
+		<Element>
+			<m_EntryID text="ANT_GALDAN_2"/>
+			<m_ObjectName text="ANT_GALDAN_2"/>
+		</Element>
+		<Element>
+			<m_EntryID text="ANT_GALDAN_4"/>
+			<m_ObjectName text="ANT_GALDAN_4"/>
+		</Element>
+		<Element>
+			<m_EntryID text="ICON_IMPROVEMENT_GER_256"/>
+			<m_ObjectName text="ICON_IMPROVEMENT_GER_256"/>
+		</Element>
+		<Element>
+			<m_EntryID text="ICON_IMPROVEMENT_GER_38"/>
+			<m_ObjectName text="ICON_IMPROVEMENT_GER_38"/>
+		</Element>
+		<Element>
+			<m_EntryID text="ICON_IMPROVEMENT_GER_43"/>
+			<m_ObjectName text="ICON_IMPROVEMENT_GER_43"/>
+		</Element>
+		<Element>
+			<m_EntryID text="ICON_IMPROVEMENT_GER_50"/>
+			<m_ObjectName text="ICON_IMPROVEMENT_GER_50"/>
+		</Element>
+		<Element>
+			<m_EntryID text="ICON_IMPROVEMENT_GER_80"/>
+			<m_ObjectName text="ICON_IMPROVEMENT_GER_80"/>
+		</Element>
+		<Element>
+			<m_EntryID text="ICON_UNIT_ANT_ULAN_ZALATA_22"/>
+			<m_ObjectName text="ICON_UNIT_ANT_ULAN_ZALATA_22"/>
+		</Element>
+		<Element>
+			<m_EntryID text="ICON_UNIT_ANT_ULAN_ZALATA_256"/>
+			<m_ObjectName text="ICON_UNIT_ANT_ULAN_ZALATA_256"/>
+		</Element>
+		<Element>
+			<m_EntryID text="ICON_UNIT_ANT_ULAN_ZALATA_32"/>
+			<m_ObjectName text="ICON_UNIT_ANT_ULAN_ZALATA_32"/>
+		</Element>
+		<Element>
+			<m_EntryID text="ICON_UNIT_ANT_ULAN_ZALATA_38"/>
+			<m_ObjectName text="ICON_UNIT_ANT_ULAN_ZALATA_38"/>
+		</Element>
+		<Element>
+			<m_EntryID text="ICON_UNIT_ANT_ULAN_ZALATA_50"/>
+			<m_ObjectName text="ICON_UNIT_ANT_ULAN_ZALATA_50"/>
+		</Element>
+		<Element>
+			<m_EntryID text="ICON_UNIT_ANT_ULAN_ZALATA_80"/>
+			<m_ObjectName text="ICON_UNIT_ANT_ULAN_ZALATA_80"/>
+		</Element>
+		<Element>
+			<m_EntryID text="ICON_CIVILIZATION_ANT_OIRAT_22"/>
+			<m_ObjectName text="ICON_CIVILIZATION_ANT_OIRAT_22"/>
+		</Element>
+		<Element>
+			<m_EntryID text="ICON_CIVILIZATION_ANT_OIRAT_256"/>
+			<m_ObjectName text="ICON_CIVILIZATION_ANT_OIRAT_256"/>
+		</Element>
+		<Element>
+			<m_EntryID text="ICON_CIVILIZATION_ANT_OIRAT_30"/>
+			<m_ObjectName text="ICON_CIVILIZATION_ANT_OIRAT_30"/>
+		</Element>
+		<Element>
+			<m_EntryID text="ICON_CIVILIZATION_ANT_OIRAT_36"/>
+			<m_ObjectName text="ICON_CIVILIZATION_ANT_OIRAT_36"/>
+		</Element>
+		<Element>
+			<m_EntryID text="ICON_CIVILIZATION_ANT_OIRAT_44"/>
+			<m_ObjectName text="ICON_CIVILIZATION_ANT_OIRAT_44"/>
+		</Element>
+		<Element>
+			<m_EntryID text="ICON_CIVILIZATION_ANT_OIRAT_45"/>
+			<m_ObjectName text="ICON_CIVILIZATION_ANT_OIRAT_45"/>
+		</Element>
+		<Element>
+			<m_EntryID text="ICON_CIVILIZATION_ANT_OIRAT_48"/>
+			<m_ObjectName text="ICON_CIVILIZATION_ANT_OIRAT_48"/>
+		</Element>
+		<Element>
+			<m_EntryID text="ICON_CIVILIZATION_ANT_OIRAT_50"/>
+			<m_ObjectName text="ICON_CIVILIZATION_ANT_OIRAT_50"/>
+		</Element>
+		<Element>
+			<m_EntryID text="ICON_CIVILIZATION_ANT_OIRAT_64"/>
+			<m_ObjectName text="ICON_CIVILIZATION_ANT_OIRAT_64"/>
+		</Element>
+		<Element>
+			<m_EntryID text="ICON_CIVILIZATION_ANT_OIRAT_80"/>
+			<m_ObjectName text="ICON_CIVILIZATION_ANT_OIRAT_80"/>
+		</Element>
+		<Element>
+			<m_EntryID text="ICON_LEADER_ANT_GALDAN_256"/>
+			<m_ObjectName text="ICON_LEADER_ANT_GALDAN_256"/>
+		</Element>
+		<Element>
+			<m_EntryID text="ICON_LEADER_ANT_GALDAN_32"/>
+			<m_ObjectName text="ICON_LEADER_ANT_GALDAN_32"/>
+		</Element>
+		<Element>
+			<m_EntryID text="ICON_LEADER_ANT_GALDAN_45"/>
+			<m_ObjectName text="ICON_LEADER_ANT_GALDAN_45"/>
+		</Element>
+		<Element>
+			<m_EntryID text="ICON_LEADER_ANT_GALDAN_50"/>
+			<m_ObjectName text="ICON_LEADER_ANT_GALDAN_50"/>
+		</Element>
+		<Element>
+			<m_EntryID text="ICON_LEADER_ANT_GALDAN_55"/>
+			<m_ObjectName text="ICON_LEADER_ANT_GALDAN_55"/>
+		</Element>
+		<Element>
+			<m_EntryID text="ICON_LEADER_ANT_GALDAN_64"/>
+			<m_ObjectName text="ICON_LEADER_ANT_GALDAN_64"/>
+		</Element>
+		<Element>
+			<m_EntryID text="ICON_LEADER_ANT_GALDAN_80"/>
+			<m_ObjectName text="ICON_LEADER_ANT_GALDAN_80"/>
+		</Element>
+		<Element>
+			<m_EntryID text="PORTRAIT_ANT_ULAN_ZALATA_200"/>
+			<m_ObjectName text="PORTRAIT_ANT_ULAN_ZALATA_200"/>
+		</Element>
+		<Element>
+			<m_EntryID text="PORTRAIT_ANT_ULAN_ZALATA_256"/>
+			<m_ObjectName text="PORTRAIT_ANT_ULAN_ZALATA_256"/>
+		</Element>
+		<Element>
+			<m_EntryID text="PORTRAIT_ANT_ULAN_ZALATA_38"/>
+			<m_ObjectName text="PORTRAIT_ANT_ULAN_ZALATA_38"/>
+		</Element>
+		<Element>
+			<m_EntryID text="PORTRAIT_ANT_ULAN_ZALATA_50"/>
+			<m_ObjectName text="PORTRAIT_ANT_ULAN_ZALATA_50"/>
+		</Element>
+		<Element>
+			<m_EntryID text="PORTRAIT_ANT_ULAN_ZALATA_70"/>
+			<m_ObjectName text="PORTRAIT_ANT_ULAN_ZALATA_70"/>
+		</Element>
+		<Element>
+			<m_EntryID text="PORTRAIT_ANT_ULAN_ZALATA_95"/>
+			<m_ObjectName text="PORTRAIT_ANT_ULAN_ZALATA_95"/>
+		</Element>
+		<Element>
+			<m_EntryID text="Moment_UniqueImprovement_Ant_Ger"/>
+			<m_ObjectName text="Moment_UniqueImprovement_Ant_Ger"/>
+		</Element>
+		<Element>
+			<m_EntryID text="Moment_UniqueUnit_Ant_Ulan_Zalata"/>
+			<m_ObjectName text="Moment_UniqueUnit_Ant_Ulan_Zalata"/>
+		</Element>
+	</m_Entries>
+	<m_AllowedPlatforms>
+		<Element>WINDOWS</Element>
+		<Element>LINUX</Element>
+		<Element>MACOS</Element>
+		<Element>IOS</Element>
+	</m_AllowedPlatforms>
+</AssetObjects..XLP>
+

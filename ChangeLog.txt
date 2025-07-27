@@ -1,0 +1,5 @@
+27.07.2025
+
+===== Version 1 =====
+
+Initial release.
