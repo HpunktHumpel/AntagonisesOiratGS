@@ -1,16 +1,24 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<Mod id="725dfc4c-35e3-424d-a6bb-29b21a2c5bd3" version="1">
+<Mod id="76865dca-0b11-4d29-ac7b-2330c2fc4401" version="1">
   <Properties>
-    <Name>Antagonise's [COLOR_FLOAT_FOOD]Oirat[ENDCOLOR]: Galdan</Name>
-    <Description>Adds the new civilization Oirat to the game, led by Galdan.</Description>
-    <Teaser>New Civilization: Oirat</Teaser>
-    <Authors>Antagonise</Authors>
+    <Name>Antagonise's [COLOR_FLOAT_FOOD]Oirat[ENDCOLOR]: Galdan [COLOR:ResCultureLabelCS](GS version)[ENDCOLOR]</Name>
+    <Description>Adds the new civilization Oirat to the game, led by Galdan. GS version.</Description>
+    <Teaser>New Civilization: Oirat. GS version.</Teaser>
+    <Authors>Antagonise, H.Humpel</Authors>
     <SpecialThanks>AngelofSloths, ChimpanG, Draeren, Leugi, SeelingCat, Sukritact, Tino</SpecialThanks>
+    <CompatibleVersions>1.2,2.0</CompatibleVersions>
   </Properties>
+  <Blocks>
+    <Mod id="725dfc4c-35e3-424d-a6bb-29b21a2c5bd3" title="Antagonise's Oirat Civilization" />
+  </Blocks>
   <References>
     <Mod id="36e88483-48fe-4545-b85f-bafc50dde315" title="GEDEMON YNEMP" />
     <Mod id="650ff782-47b4-4b46-93fb-00bef8da8b8e" title="JFD RULE WITH FAITH" />
   </References>
+  <Dependencies>
+    <Mod id="4873eb62-8ccc-4574-b784-dda455e74e68" title="Expansion: Gathering Storm" />
+    <Mod id="1B28771A-C749-434B-9053-D1380C553DE9" title="Expansion: Rise and Fall" />
+  </Dependencies>
   <FrontEndActions>
     <UpdateDatabase id="FEConfig">
       <File>Core/AntOirat_Config.xml</File>

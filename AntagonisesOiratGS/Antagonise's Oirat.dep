@@ -2,7 +2,7 @@
 <AssetObjects..GameDependencyData>
 	<ID>
 		<name text="Antagonise's Oirat"/>
-		<id text="725dfc4c-35e3-424d-a6bb-29b21a2c5bd3"/>
+		<id text="76865dca-0b11-4d29-ac7b-2330c2fc4401"/>
 	</ID>
 	<RequiredGameArtIDs>
 		<Element>
@@ -579,4 +579,3 @@
 		</Element>
 	</LibraryDependencies>
 </AssetObjects..GameDependencyData>
-
